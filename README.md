@@ -22,6 +22,11 @@ Of course, you can always also: `pip install -r requirements.txt`
 ## Other cool repos related to image processing
 
 - https://github.com/nuno-faria/tiler
+- https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse
+
+## Fonts
+
+- https://fonts.google.com/
 
 ## Resources
 
