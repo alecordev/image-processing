@@ -19,6 +19,10 @@ Of course, you can always also: `pip install -r requirements.txt`
 
 - `python -c "import cv2"`
 
+## Other cool repos related to image processing
+
+- https://github.com/nuno-faria/tiler
+
 ## Resources
 
 - https://opencv.org/
